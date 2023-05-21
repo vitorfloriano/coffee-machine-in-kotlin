@@ -1,11 +1,10 @@
 import java.util.Scanner
 
 fun main() {
+    val scanner = Scanner(System.`in`)
     var balance = readln().toInt()
-    var scanner = Scanner(System.`in`)
     while (scanner.hasNextInt()) {
-
-
+        // TODO
     }
-
+    // TODO
 }
